@@ -1,10 +1,10 @@
-# My First Godot Game a.k.a "Dodge the Creeps"!
+# My First Godot Game a.k.a "Dodge the Creeps" :D
 
 My first time using a game engine for game development! Using Godot Engine, I made a simple 2D game where you play as a little sprite dodging chaotic mobs that really have it out for you. Huge thanks to the [official Godot 2D game tutorial](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html) for guiding me through my first game.  
 Wouldn’t have made it past the first mob without it!
 
 ---
-## 📸 Screenshots
+## Some Flics
 
 ![Gameplay Screenshot 1](playing.png)
 
