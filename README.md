@@ -6,13 +6,14 @@ Wouldn’t have made it past the first mob without it!
 ---
 ## Some Flics
 
-![Gameplay Screenshot 1](playing.png)
+<p float="left">
+  <img src="getready.png" width="45%" />
+  <img src="playing.png" width="45%" />
+</p>
 
-*This is the get ready page.*
-
-![Gameplay Screenshot 2](playing.png)
-
-*This is how gameplay looks like.*
+<p>
+  <em>This is the get ready page (left) and actual gameplay (right).</em>
+</p>
 
 ---
 
