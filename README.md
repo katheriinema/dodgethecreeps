@@ -7,9 +7,11 @@ Wouldn’t have made it past the first mob without it!
 ## 📸 Screenshots
 
 ![Gameplay Screenshot 1](playing.png)
+
 *This is the get ready page.*
 
 ![Gameplay Screenshot 2](playing.png)
+
 *This is how gameplay looks like.*
 
 ---
